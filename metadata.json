@@ -1,0 +1,5 @@
+{
+  "name": "大白 - AI心理助手",
+  "description": "基于多模态情绪识别的AI心理咨询与健康管理助手",
+  "requestFramePermissions": ["camera", "microphone"]
+}
